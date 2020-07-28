@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "877625af18978cccd2d02780fbd11842",
+    "content-hash": "675ef55aa48d55f15c857ab439ca94f1",
     "packages": [
         {
             "name": "automattic/jetpack-autoloader",
-            "version": "v2.0.2",
+            "version": "v2.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Automattic/jetpack-autoloader.git",
-                "reference": "4502da4b2443fc1b61389cacc94c34876aca2b3d"
+                "reference": "802517b3ff3010de89141d9f7c4d56aec1d21527"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Automattic/jetpack-autoloader/zipball/4502da4b2443fc1b61389cacc94c34876aca2b3d",
-                "reference": "4502da4b2443fc1b61389cacc94c34876aca2b3d",
+                "url": "https://api.github.com/repos/Automattic/jetpack-autoloader/zipball/802517b3ff3010de89141d9f7c4d56aec1d21527",
+                "reference": "802517b3ff3010de89141d9f7c4d56aec1d21527",
                 "shasum": ""
             },
             "require": {
@@ -40,7 +40,7 @@
                 "GPL-2.0-or-later"
             ],
             "description": "Creates a custom autoloader for a plugin or theme.",
-            "time": "2020-07-09T13:18:38+00:00"
+            "time": "2020-07-27T20:37:00+00:00"
         },
         {
             "name": "automattic/jetpack-constants",
@@ -558,12 +558,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/woocommerce/woocommerce-admin.git",
-                "reference": "8c1818854b0188ae636d2a4d065865196e26e002"
+                "reference": "d56ac35bbb62bda2c981443932e7f90b0f6dbe99"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/woocommerce/woocommerce-admin/zipball/8c1818854b0188ae636d2a4d065865196e26e002",
-                "reference": "8c1818854b0188ae636d2a4d065865196e26e002",
+                "url": "https://api.github.com/repos/woocommerce/woocommerce-admin/zipball/d56ac35bbb62bda2c981443932e7f90b0f6dbe99",
+                "reference": "d56ac35bbb62bda2c981443932e7f90b0f6dbe99",
                 "shasum": ""
             },
             "require": {
@@ -597,7 +597,7 @@
             ],
             "description": "A modern, javascript-driven WooCommerce Admin experience.",
             "homepage": "https://github.com/woocommerce/woocommerce-admin",
-            "time": "2020-07-28T00:28:40+00:00"
+            "time": "2020-07-28T15:18:55+00:00"
         },
         {
             "name": "woocommerce/woocommerce-blocks",
@@ -807,6 +807,20 @@
             "keywords": [
                 "constructor",
                 "instantiate"
+            ],
+            "funding": [
+                {
+                    "url": "https://www.doctrine-project.org/sponsorship.html",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://www.patreon.com/phpdoctrine",
+                    "type": "patreon"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/doctrine%2Finstantiator",
+                    "type": "tidelift"
+                }
             ],
             "time": "2020-05-29T17:27:14+00:00"
         },
@@ -1069,6 +1083,12 @@
                 "duplicate",
                 "object",
                 "object graph"
+            ],
+            "funding": [
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/myclabs/deep-copy",
+                    "type": "tidelift"
+                }
             ],
             "time": "2020-06-29T13:22:24+00:00"
         },
@@ -2669,6 +2689,20 @@
                 "ctype",
                 "polyfill",
                 "portable"
+            ],
+            "funding": [
+                {
+                    "url": "https://symfony.com/sponsor",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/fabpot",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
+                    "type": "tidelift"
+                }
             ],
             "time": "2020-07-14T12:35:20+00:00"
         },
